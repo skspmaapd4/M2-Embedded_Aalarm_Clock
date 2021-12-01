@@ -1,5 +1,17 @@
-# Atmega alarm clock
-Final project for microcontrollers course at AGH, Cracow. Clock uses Arduino Uno clone as a development board with Atmega microcontroler and seven segment display. The main purpos of this project was learning how to write code for AVRs using Atmel Studio and self-etching PCBs.
+﻿# Alarm_Clock_Using_ATMEGA328
+## Overview:
+This is a project where I designed and built a digital alarm clock using the Atmel ATMEGA328 microcontroller.
+## Features:
+- 24 hour based alarm clock
+- A.M./P.M. and Alarm LED indicators
+- Horrible alarm sound﻿# Alarm_Clock_Using_ATMEGA328
+## Overview:
+This is a project where I designed and built a digital alarm clock using the Atmel ATMEGA328 microcontroller.
+## Features:
+- 24 hour based alarm clock
+- A.M./P.M. and Alarm LED indicators
+- Horrible alarm sound
+Clock uses Arduino Uno clone as a development board with Atmega microcontroler and seven segment display. The main purpos of this project was learning how to write code for AVRs using Atmel Studio and self-etching PCBs.
 
 ![](https://cloud.githubusercontent.com/assets/25593055/22661873/426e425e-eca7-11e6-8a26-224b269de68d.jpg)
 
