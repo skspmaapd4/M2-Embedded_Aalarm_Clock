@@ -7,4 +7,4 @@ If the time is 12 midday or later the RIGHT HAND decimal point (PM) will light u
 
 Between 9 pm and 6 am the display will automatically dim.
 
-You can test the alarm, if the alarm switch is in the "on" position, by pressing the Cancel button. That forces an alarm test. This lets you check that the buzzer is working, and its volume. Press the Cancel button again to cancel it.
+We can test the alarm, if the alarm switch is in the "on" position, by pressing the Cancel button. That forces an alarm test. This lets you check that the buzzer is working, and its volume. Press the Cancel button again to cancel it.
